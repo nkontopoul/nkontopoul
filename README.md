@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nkontopoul
 - 👀 I’m interested Computer Graphics/Gaming programming, Telecommunications, CyberSecurity, Networking, Mac ecosystem
-- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on relevant projects
 - 📫 How to reach me ...nkontopoul at gmail.com
 
